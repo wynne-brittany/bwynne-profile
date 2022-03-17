@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @datacore-bwynne
 - 👀 I’m interested in ... lots of different things - yoga and table top games just to name a few 
 - 🌱 I’m currently learning ... all about automation for QA purposes
-- 💞️ I’m looking to collaborate on ... Test Complete GUI testing
+- 💞️ I’m looking to collaborate on ... Automated Deployment Tools - packer,terraform & ansible
 - 📫 How to reach me ... linkedin
 
 <!---
