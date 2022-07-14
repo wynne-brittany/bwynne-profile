@@ -15,8 +15,6 @@
 ## Languages
 - [ ] Python 
 - [ ] Powershell
-- [ ] Powershell - VMware PowerCLI
-- [x] Powershell - DataCore SANsymphony Cmdlets
 
 ## Projects
 - [x] Ansible
@@ -24,10 +22,17 @@
   - [x] ansible.builtin collection
   - [x] ansible.windows collection
   - [x] community.windows collection
-- [ ] Terraform
+- [x] DataCore Software
+  - [x] SANsymphony - block storage product
+  - [x] DataCore: REST API
+  - [x] DataCore: SANsymphony Cmdlets
+  - [x] DataCore: Windows Integration Kit
 - [ ] Packer
 - [x] RobotFramework
   - [x] seleniumLibrary
   - [x] requestsLibrary
   - [x] FlaUILibrary
   - [x] builtin,process,operatingsystem,string
+- [ ] Terraform
+- [x] VMware ESXi
+  - [x] VMware PowerCLI
