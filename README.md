@@ -12,8 +12,9 @@
 - [x] Certified Tester, Foundation Level Agile Tester  || Date: 2021-03
 - [ ] Advanced Test Automation Engineer Exam - ISTQB || Date: 2022-TBD
 ## Languages
-- [ ] Python 
-- [ ] Powershell
+- [x] Powershell
+- [x] Python 
+- [ ] GoLang 
 ## OS
 - [x] Windows Server Editions 
 - [x] Linux - Ubuntu 20.04
@@ -26,8 +27,9 @@
 - [x] DataCore Software
   - [x] SANsymphony - block storage product
   - [x] DataCore: REST API
-  - [x] DataCore: SANsymphony Cmdlets
+  - [x] DataCore: SANsymphony Powershell Cmdlets
   - [x] DataCore: Windows Integration Kit
+  - [x] DataCore: vSphere Plug-in for VMware Web UI
 - [ ] Packer
 - [x] RobotFramework
   - [x] seleniumLibrary
@@ -35,5 +37,6 @@
   - [x] FlaUILibrary
   - [x] builtin,process,operatingsystem,string
 - [ ] Terraform
+  - [x] ansible calls through null provisioner 
 - [x] VMware ESXi
   - [x] VMware PowerCLI
