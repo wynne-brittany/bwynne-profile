@@ -11,11 +11,12 @@
 - [x] Certified Tester, Advanced Level Test Analyst || Date: 2020-08
 - [x] Certified Tester, Foundation Level Agile Tester  || Date: 2021-03
 - [ ] Advanced Test Automation Engineer Exam - ISTQB || Date: 2022-TBD
-
 ## Languages
 - [ ] Python 
 - [ ] Powershell
-
+## OS
+- [x] Windows Server Editions 
+- [x] Linux - Ubuntu 20.04
 ## Projects
 - [x] Ansible
   - [x] calling ansible from within terraform
