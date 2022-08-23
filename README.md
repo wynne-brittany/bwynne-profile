@@ -13,11 +13,14 @@
 - [ ] Advanced Test Automation Engineer Exam - ISTQB || Date: 2022-TBD
 ## Languages
 - [x] Powershell
+  - [x] Pester
+  - [x] VMware PowerCLI
 - [x] Python 
 - [ ] GoLang 
 ## OS
 - [x] Windows Server Editions 
 - [x] Linux - Ubuntu 20.04
+- [x] VMware ESXi
 ## Projects
 - [x] Ansible
   - [x] calling ansible from within terraform
@@ -38,5 +41,4 @@
   - [x] builtin,process,operatingsystem,string
 - [ ] Terraform
   - [x] ansible calls through null provisioner 
-- [x] VMware ESXi
-  - [x] VMware PowerCLI
+
