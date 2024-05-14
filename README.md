@@ -24,7 +24,7 @@
 - [x] Linux - Ubuntu 20.04
 - [x] VMware ESXi
 
-## Projects
+## Projects/Tools
 - [x] Ansible
   - [x] calling ansible from within terraform
 
@@ -34,6 +34,9 @@
   - [x] DataCore: SANsymphony Powershell Cmdlets
   - [x] DataCore: Windows Integration Kit
   - [x] DataCore: vSphere Plug-in for VMware Web UI
+
+- [x] Docker for Windows
+  - [x] Dockerfile
 
 - [x] RobotFramework
   - [x] seleniumLibrary
