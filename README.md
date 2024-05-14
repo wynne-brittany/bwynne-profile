@@ -10,6 +10,8 @@
 - [x] Certified Tester, Foundation Level || Date: 2019-01
 - [x] Certified Tester, Advanced Level Test Analyst || Date: 2020-08
 - [x] Certified Tester, Foundation Level Agile Tester  || Date: 2021-03
+- [ ] Certified Tester, Test Automation Engineer || Date: TBD <- interested
+- [ ] AWS Certified DevOps Engineer - Professional || Date: TBD <- interested
 
 ## Languages
 - [x] Powershell
@@ -39,6 +41,7 @@
   - [x] FlaUILibrary
   - [x] builtin,process,operatingsystem,string
 
-- [ ] Terraform
-  - [x] ansible calls through null provisioner 
-
+- [x] Terraform
+  - [x] ansible calls through null provisioner
+  - [ ] VMware Provisioning
+  - [ ] Azure Provisioning
