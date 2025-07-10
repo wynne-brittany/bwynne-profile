@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @wynne-brittany
 - 👀 I’m interested in ...  yoga & casual gaming,  
-- 🌱 I’m currently learning ... all about automation for QA purposes
-- 💞️ I’m looking to collaborate on ... Automated Deployment Tools & Automation Frameworks (Ansible to RobotFramework)
+- 🌱 I’m currently learning ... deeper python skills
+- 💞️ I’m looking to collaborate on ... Automated Deployment Tools for CI/CD & Automation Frameworks
 - 📫 How to reach me ... linkedin www.linkedin.com/in/brittwynne
 
-# welcome to my learning journey
+# Welcome to My Learning Journey
 
 ## Certifications:
 - [x] Certified Tester, Foundation Level || Date: 2019-01
