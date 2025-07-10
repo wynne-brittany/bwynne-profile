@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @datacore-bwynne
+- 👋 Hi, I’m @wynne-brittany
 - 👀 I’m interested in ...  yoga & casual gaming,  
 - 🌱 I’m currently learning ... all about automation for QA purposes
 - 💞️ I’m looking to collaborate on ... Automated Deployment Tools & Automation Frameworks (Ansible to RobotFramework)
-- 📫 How to reach me ... linkedin
+- 📫 How to reach me ... linkedin www.linkedin.com/in/brittwynne
 
 # welcome to my learning journey
 
@@ -46,5 +46,4 @@
 
 - [x] Terraform
   - [x] ansible calls through null provisioner
-  - [ ] VMware Provisioning
-  - [ ] Azure Provisioning
+  - [x] VMware Provisioning
