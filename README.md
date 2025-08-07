@@ -50,3 +50,5 @@
 - [x] Terraform
   - [x] ansible calls through null provisioner
   - [x] VMware Provisioning
+     
+- [ ] Playwright <- interested 
