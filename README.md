@@ -15,12 +15,15 @@
 
 ## Languages
 - [x] Powershell
-  - [x] Pester
+  - [x] using .NET classes
+  - [x] Pester 
   - [x] VMware PowerCLI
 - [x] Python 
 
 ## OS
-- [x] Windows Server Editions 
+- [x] Windows Server Editions
+  - [x] Hyper-V
+  - [x] active directory   
 - [x] Linux - Ubuntu 20.04
 - [x] VMware ESXi
 
